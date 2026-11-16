@@ -1,0 +1,2 @@
+# Optional unofficial private-API connector. Python 3.11+ recommended.
+instagrapi>=3.2.12,<4

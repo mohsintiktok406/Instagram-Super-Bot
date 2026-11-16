@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+.pytest_cache/
+.DS_Store
+# Unofficial Instagram private API session (contains account authorization)
+data/instagram_private_session.json
